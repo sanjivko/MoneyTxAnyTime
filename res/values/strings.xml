@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MoneyTxAnyTime</string>
+    <string name="menu_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+    <string name="bank_list_prompt">Choose your bank</string>
+    <string-array name="bank_arrays">
+        <item>ICICI</item>
+        <item>Citibank</item>
+        <item>Kotak</item>
+        <item>Axis</item>
+        <item>HSBC</item>
+        <item>HDFC</item>
+        <item>SBI</item>
+        <item>AndhraBank</item>
+    </string-array>
+
+</resources>

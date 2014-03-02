@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/itemAddPayee"
+        android:title="Add Payee">
+    </item>
+    <item
+        android:id="@+id/itemDeletePayee"
+        android:title="Delete Payee">
+    </item>
+    <item
+        android:id="@+id/itemEditPayee"
+        android:title="Edit Payee">
+    </item>
+
+</menu>
